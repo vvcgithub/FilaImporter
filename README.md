@@ -1,2 +1,2 @@
 # FilaImporter
-Imports QB Data to Fila Report Generator
+VVC Middleware: Read and imports QB Data to Fila Report Generator
